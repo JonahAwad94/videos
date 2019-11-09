@@ -1,2 +1,1 @@
-# videos
- Project done through Stephen Grider's Modern React with Redux Udemy course
+This repo serves to simplify working through Stephen Grider's "Modern React with Redux" course on Udemy across different computers, house notes taken via comments in source code and hold components that may be useful in future projects.
